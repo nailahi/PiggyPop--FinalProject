@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PiggyPop</string>
+    <string name="piggy_pop">Piggy Pop</string>
+    <string name="directions_just_tap_the_pig">Directions: Just tap the pig</string>
+    <string name="oink_let_s_go">Oink! Let\'s Go!</string>
+    <string name="type_your_unique_username">Type your Unique Username</string>
+    <string name="pig">pig</string>
+    <string name="pig2">pig</string>
+    <string name="playername">playername</string>
+    <string name="hit">Hit:</string>
+    <string name="miss">Miss:</string>
+</resources>
